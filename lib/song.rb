@@ -5,5 +5,6 @@ class Song
   def initilaize
     @title = title
     @artist - artist.name
+  end
 
 end
